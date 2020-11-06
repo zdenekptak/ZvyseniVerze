@@ -11,15 +11,15 @@ echo.
 echo ===== ostre zdroje ========================================
 "c:\Program Files\TortoiseSVN\bin\svn.exe" info https://svn-cz.asol.local/svn/HeliosOrange/heo/trunk/asseco
 echo.
-"c:\Program Files\TortoiseSVN\bin\svn.exe" commit C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\_Verze - kopie.inc -m "Automatické zvýšení verze pro noèní buildy: 0986"
+"c:\Program Files\TortoiseSVN\bin\svn.exe" commit C:\HeO_vyroba_distribuce\Zdroje\Stare\asseco\_Verze.inc -m "Automatické zvýšení verze pro noèní buildy: 0949"
 echo.
 echo.
 echo.
 echo.
 
 echo.
-echo automaticke pozdrzeni davky na 30 sec 
-choice /C A /D A /T 30 > nul
+echo automaticke pozdrzeni davky na 5 sec 
+choice /C A /D A /T 5 > nul
 
 
 exit
