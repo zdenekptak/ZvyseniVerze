@@ -17,6 +17,7 @@ echo.
 echo.
 echo.
 echo.
-
+echo automaticke pozdrzeni davky na 2 sec 
+choice /C A /D A /T 2 > nul
 
 exit

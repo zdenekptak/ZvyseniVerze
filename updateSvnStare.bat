@@ -8,7 +8,7 @@ set osetrenichyby=IF %ERRORLEVEL% EQU 1 msg %username% Chyba pri aktualizaci zdr
 echo.
 echo.
 echo.
-echo ===== ostre zdroje ========================================
+echo ===== stare zdroje ========================================
 "c:\Program Files\TortoiseSVN\bin\svn.exe" info https://svn-cz.asol.local/svn/HeliosOrange/heo/trunk/asseco
 echo.
 "c:\Program Files\TortoiseSVN\bin\svn.exe" update C:\HeO_vyroba_distribuce\Zdroje\Stare
@@ -17,6 +17,7 @@ echo.
 echo.
 echo.
 echo.
-
+echo automaticke pozdrzeni davky na 2 sec 
+choice /C A /D A /T 2 > nul
 
 exit
