@@ -1,7 +1,7 @@
 from verzeAutomat import VerzovaciAutomat
 
 verzovaciAutomat = VerzovaciAutomat()
-souboryKeKontrole = 'C:/Users/zdenek.ptak/Repository/CisloVerze/soubory.json'
+souboryKeKontrole = 'C:/Users/zdenek.ptak/Repository/CisloVerze/souborykekontrole.json'
 iniSoubor = 'posledniUlozenaVerze.ini'
 souborCommitSVN = 'commitSvn.bat'
 uvodCesty = "C:\\HeO_vyroba_distribuce\\Zdroje"
