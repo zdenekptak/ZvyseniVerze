@@ -102,7 +102,7 @@ class VerzovaciAutomat:
                     konecneVysledkyAnoNe[z] = "Ano"
                 else:
                     konecneVysledkyAnoNe[z] = "Ne"
-            elif z == 'Freeze':
+            else:
                 if anone == True:
                     konecneVysledkyAnoNe[z] = "Ano"
                 else:
@@ -286,7 +286,7 @@ class VerzovaciAutomat:
         aktualniSVN = verzovaciAutomat.aktualniVerzeSVN(self.cesta)
         aktualniINI = verzovaciAutomat.ziskaniVerzeZIni(self.iniSoubor, self.zdroje)
         print(f'Aktualni cislo verze na SVN - HeO2: {aktualniSVN[0]} a HeO3: {aktualniSVN[1]}')
-        print(f'Aktualni cislo verze na SVN - HeO2: {aktualniINI[0]} a HeO3: {aktualniINI[1]}')
+        print(f'Aktualni cislo verze v INI - HeO2: {aktualniINI[0]} a HeO3: {aktualniINI[1]}')
 
         if aktualniSVN[0] == aktualniINI[0] and aktualniSVN[1] == aktualniINI[1]:
             print(f"{self.zdroje}:  zdroje nebyly zvednuty manuálně")
