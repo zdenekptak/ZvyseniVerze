@@ -1,0 +1,339 @@
+
+
+
+
+SVN UPDATE (aktualizace ze SVN na lokal)
+===== ostre zdroje ========================================
+Path: asseco
+URL: https://svn-cz.asol.local/svn/HeliosOrange/heo/trunk/asseco
+Relative URL: ^/heo/trunk/asseco
+Repository Root: https://svn-cz.asol.local/svn/HeliosOrange
+Repository UUID: 5f2a6110-f334-d146-828f-d748b03a89c1
+Revision: 42446
+Node Kind: directory
+Last Changed Author: pavel.domecky
+Last Changed Rev: 42446
+Last Changed Date: 2021-02-10 18:55:30 +0100 (st, 10 úno 2021)
+
+
+Updating 'C:\HeO_vyroba_distribuce\Zdroje\Ostre':
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\ddUProc.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\ddUProcType.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\dmQMSOpakovaneUkoly.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\fcKonJed.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\ddUProc_pokladna.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\fcObeh.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\prProcesWSOvereniDIC.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\ecZamMzd.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\ecMzdOdpPolRok.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\ddZmeny.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\mzUProc.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\ecDzPPOR.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\ecPoklad.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\evPoklad.dfm
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\evPoklad.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\dmUctenkaR.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\ozUProc.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\frecNavazneDoklady.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\sqInfoPanelNavazDokl.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\sqNavazneDokladyZaklad.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\ddTypeZbytek.inc
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\sqDefForm.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\sqnveDBEditorController.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\sqnveEditorController.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\dtDenik.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\ecDruhDZ.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Ostre\asseco\sqKVDPHSK.pas
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Ostre\dragdrop':
+Updated external to revision 42446.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Ostre\easymapi':
+External at revision 42446.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Ostre\edocengine':
+External at revision 42446.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Ostre\exgrid':
+External at revision 42446.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Ostre\imageen':
+External at revision 42446.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Ostre\indy':
+External at revision 42446.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Ostre\jcl':
+External at revision 42446.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Ostre\rbuilder':
+External at revision 42446.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Ostre\rx':
+External at revision 42446.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Ostre\sdac':
+External at revision 42446.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Ostre\secureblackbox':
+External at revision 42446.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Ostre\scheduler':
+External at revision 42446.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Ostre\zipforge':
+External at revision 42446.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Ostre\eurekalog':
+External at revision 42446.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Ostre\hecore':
+External at revision 42446.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Ostre\manroz':
+External at revision 42446.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Ostre\hesms':
+External at revision 42446.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Ostre\teechart':
+External at revision 42446.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Ostre\chromium':
+External at revision 42446.
+
+At revision 42446.
+
+
+
+automaticke pozdrzeni davky na 5 sec 
+
+
+
+
+SVN UPDATE (aktualizace ze SVN na lokal)
+===== stare zdroje ========================================
+Path: asseco
+URL: https://svn-cz.asol.local/svn/HeliosOrange/heo/trunk/asseco
+Relative URL: ^/heo/trunk/asseco
+Repository Root: https://svn-cz.asol.local/svn/HeliosOrange
+Repository UUID: 5f2a6110-f334-d146-828f-d748b03a89c1
+Revision: 42446
+Node Kind: directory
+Last Changed Author: pavel.domecky
+Last Changed Rev: 42446
+Last Changed Date: 2021-02-10 18:55:30 +0100 (st, 10 úno 2021)
+
+
+Updating 'C:\HeO_vyroba_distribuce\Zdroje\Stare':
+U    C:\HeO_vyroba_distribuce\Zdroje\Stare\asseco\ecZamMzd.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Stare\asseco\ddUProc.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Stare\asseco\ecMzdOdpPolRok.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Stare\asseco\ddZmeny.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Stare\asseco\mzUProc.pas
+U    C:\HeO_vyroba_distribuce\Zdroje\Stare\asseco\dmUctenkaR.pas
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Stare\dragdrop':
+Updated external to revision 41915.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Stare\easymapi':
+External at revision 41915.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Stare\edocengine':
+External at revision 41915.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Stare\exgrid':
+External at revision 41915.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Stare\imageen':
+External at revision 41915.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Stare\indy':
+External at revision 41915.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Stare\jcl':
+External at revision 41915.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Stare\rbuilder':
+External at revision 41915.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Stare\rx':
+External at revision 41915.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Stare\sdac':
+External at revision 41915.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Stare\secureblackbox':
+External at revision 41915.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Stare\scheduler':
+External at revision 41915.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Stare\zipforge':
+External at revision 41915.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Stare\eurekalog':
+External at revision 41915.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Stare\hecore':
+External at revision 41915.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Stare\manroz':
+External at revision 41915.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Stare\hesms':
+External at revision 41915.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Stare\teechart':
+External at revision 41915.
+
+
+Fetching external item into 'C:\HeO_vyroba_distribuce\Zdroje\Stare\chromium':
+External at revision 41915.
+
+At revision 42446.
+
+
+
+automaticke pozdrzeni davky na 5 sec 
+
+
+
+
+SVN UPDATE (aktualizace ze SVN na lokal)
+===== freeze zdroje ========================================
+Path: asseco
+URL: https://svn-cz.asol.local/svn/HeliosOrange/heo/trunk/asseco
+Relative URL: ^/heo/trunk/asseco
+Repository Root: https://svn-cz.asol.local/svn/HeliosOrange
+Repository UUID: 5f2a6110-f334-d146-828f-d748b03a89c1
+Revision: 42446
+Node Kind: directory
+Last Changed Author: pavel.domecky
+Last Changed Rev: 42446
+Last Changed Date: 2021-02-10 18:55:30 +0100 (st, 10 úno 2021)
+
+
+Updating 'C:\HeO_vyroba_distribuce\Zdroje\Freeze':
+
+automaticke pozdrzeni davky na 5 sec 
+COMMIT do SVN
+
+
+
+===== ostre zdroje ========================================
+Path: asseco
+URL: https://svn-cz.asol.local/svn/HeliosOrange/heo/trunk/asseco
+Relative URL: ^/heo/trunk/asseco
+Repository Root: https://svn-cz.asol.local/svn/HeliosOrange
+Repository UUID: 5f2a6110-f334-d146-828f-d748b03a89c1
+Revision: 42446
+Node Kind: directory
+Last Changed Author: pavel.domecky
+Last Changed Rev: 42446
+Last Changed Date: 2021-02-10 18:55:30 +0100 (st, 10 úno 2021)
+
+
+Sending        HeO_vyroba_distribuce\Zdroje\Ostre\asseco\_Verze.inc
+Transmitting file data .done
+Committing transaction...
+Committed revision 42447.
+
+
+
+
+
+automaticke pozdrzeni davky na 5 sec 
+COMMIT do SVN
+
+
+
+===== ostre zdroje ========================================
+Path: asseco
+URL: https://svn-cz.asol.local/svn/HeliosOrange/heo/trunk/asseco
+Relative URL: ^/heo/trunk/asseco
+Repository Root: https://svn-cz.asol.local/svn/HeliosOrange
+Repository UUID: 5f2a6110-f334-d146-828f-d748b03a89c1
+Revision: 42447
+Node Kind: directory
+Last Changed Author: zdenek.ptak
+Last Changed Rev: 42447
+Last Changed Date: 2021-02-10 23:45:25 +0100 (st, 10 úno 2021)
+
+
+Sending        HeO_vyroba_distribuce\Zdroje\Stare\asseco\_Verze.inc
+Transmitting file data .done
+Committing transaction...
+Committed revision 42448.
+
+
+
+
+
+automaticke pozdrzeni davky na 5 sec 
+Dnesni datum je: 2021-02-10
+
+Datum posledni zmeny v Ostre: 2021-02-10
+
+Datum posledni zmeny v Stare: 2021-02-10
+
+Datum posledni zmeny v Freeze: 2021-01-19
+
+Byly dnes zmeneny zdroje: {'Ostre': 'Ano', 'Stare': 'Ano', 'Freeze': 'Ne'}
+
+Aktualni cislo verze na SVN - HeO2: 0172 a HeO3: 0172
+Aktualni cislo verze v INI - HeO2: 0172 a HeO3: 0172
+Ostre:  zdroje nebyly zvednuty manuálnì
+Ostre:  do zdrojù byly vloženy úpravy
+Automaticke zvyseni verze pro nocni buildy: 0173
+Byl upraven commit Ostre
+Ostre:  zdroje byly zvyseny na 0173
+
+Aktualni cislo verze na SVN - HeO2: 0115 a HeO3: 0115
+Aktualni cislo verze v INI - HeO2: 0115 a HeO3: 0115
+Stare:  zdroje nebyly zvednuty manuálnì
+Stare:  do zdrojù byly vloženy úpravy
+Automaticke zvyseni verze pro nocni buildy: 0116
+Byl upraven commit Stare
+Stare:  zdroje byly zvyseny na 0116
+
+Aktualni cislo verze na SVN - HeO2: 0100 a HeO3: 0100
+Aktualni cislo verze v INI - HeO2: 0100 a HeO3: 0100
+Freeze:  zdroje nebyly zvednuty manuálnì
+Freeze:  zdroje nebyly upraveny
+

@@ -191,6 +191,7 @@ class VerzovaciAutomat:
             msg = f'"{self.message}"'
             x = cestaNaSvn + ' ' + commit + ' ' + celaCesta + ' ' + msg + '\n'
             data[radek] = x
+            print(f"Byl upraven commit Ostre")
         elif self.zdroje == 'Stare':        
             # nacteni konkretniho radku
             heoCisloVerze = data[radek]
@@ -201,6 +202,7 @@ class VerzovaciAutomat:
             msg = f'"{self.message}"'
             x = cestaNaSvn + ' ' + commit + ' ' + celaCesta + ' ' + msg + '\n'
             data[radek] = x
+            print(f"Byl upraven commit Stare")
         else:        
             # nacteni konkretniho radku
             heoCisloVerze = data[radek]
@@ -211,6 +213,7 @@ class VerzovaciAutomat:
             msg = f'"{self.message}"'
             x = cestaNaSvn + ' ' + commit + ' ' + celaCesta + ' ' + msg + '\n'
             data[radek] = x
+            print(f"Byl upraven commit Freeze")
 
         with open(self.souborCommitSVN, 'w') as file:
             file.writelines(data) 
@@ -282,7 +285,6 @@ class VerzovaciAutomat:
         self.uvodCesty = uvodCesty
         
         verzovaciAutomat = VerzovaciAutomat()
-        verzovaciAutomat.updateFromSVN(self.zdroje)
         aktualniSVN = verzovaciAutomat.aktualniVerzeSVN(self.cesta)
         aktualniINI = verzovaciAutomat.ziskaniVerzeZIni(self.iniSoubor, self.zdroje)
         print(f'Aktualni cislo verze na SVN - HeO2: {aktualniSVN[0]} a HeO3: {aktualniSVN[1]}')
@@ -300,7 +302,7 @@ class VerzovaciAutomat:
                 verzovaciAutomat.upraveniCommitSouboru(self.souborCommitSVN, self.zdroje, message, self.uvodCesty)
                 print(f"{self.zdroje}:  zdroje byly zvyseny na {noveCisloVerze}")
                 print()
-#                 verzovaciAutomat.commitToSVN()
+                verzovaciAutomat.commitToSVN()
             else:
                 print(f"{self.zdroje}:  zdroje nebyly upraveny")  
                 print()
